@@ -20,8 +20,7 @@ campaign was launched. Then I made a pivot table from the date in this sheet and
 sorted the campaign outcomes in descending order to show successful outcomes first. Then I created a line chart of this table to notice the trend
 of the outcomes throughout the entire year. 
 
-
-<img width="220" alt="Capture" src="https://user-images.githubusercontent.com/95254809/148675448-43091e25-c8d3-487a-8348-86ba1532008b.PNG">
+<img width="220" alt="Capture 1" src="https://user-images.githubusercontent.com/95254809/148675569-3056b213-ce27-4c58-87a7-94cf5e85cd0e.PNG">
 
 ### Analysis of Outcomes Based on Goals
 
@@ -30,6 +29,9 @@ For this part, I created a new sheet for "Outcomes Based on Goals" data. After c
 function to extract data from the "Kickstarter" sheet. Other functions used to complete the table were Sum() and Round(). Then I selected the Goals 
 columnns and all the Percentage Columns to make a line chart. This line chart shows the percentage of campaigns which failed, succeeded and got canceled 
 based on their goal amounts. 
+
+<img width="476" alt="Capture 2" src="https://user-images.githubusercontent.com/95254809/148675614-db784017-6923-4240-9f1c-7cfa3a5c1e1a.PNG">
+
 
 ### Challenges and Difficulties Encountered
 
@@ -42,6 +44,8 @@ very long and there were many columns in the main Kickstarter sheet.
 
 The first and foremost conclusion which can be drawn is that most campaigns that succeeded were in the month of May. So it would be a great idea
 for Louise to start her fundraising campaign in May.
+
+
 
 Second conclusion which can be clearly drawn is that most failed campaigns started in October. This tells us that October is not a really good time to 
 start the campaign. 
