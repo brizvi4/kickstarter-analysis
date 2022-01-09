@@ -20,6 +20,9 @@ campaign was launched. Then I made a pivot table from the date in this sheet and
 sorted the campaign outcomes in descending order to show successful outcomes first. Then I created a line chart of this table to notice the trend
 of the outcomes throughout the entire year. 
 
+
+<img width="220" alt="Capture" src="https://user-images.githubusercontent.com/95254809/148675448-43091e25-c8d3-487a-8348-86ba1532008b.PNG">
+
 ### Analysis of Outcomes Based on Goals
 
 
