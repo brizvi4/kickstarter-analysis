@@ -37,10 +37,27 @@ very long and there were many columns in the main Kickstarter sheet.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+The first and foremost conclusion which can be drawn is that the most campaigns which succeeded were in the month of May. So it would be a great idea
+for Louise to start her fundraising campaign in May.
+
+Second conclusion which can be clearly drawn is that most failed campaigns started in October. This tells us that October is not a really good time to 
+start the campaign. 
+
 - What can you conclude about the Outcomes based on Goals?
+
+From the graph, we can conclude that it is a bad idea to keep a goal of higher than $50,000 as most of the campaigns in that range failed. Secondly, projects which had a goal of less than $1000 mostly succeeded. This tells us that if Louise decreses her fundraising goal, she will have a much better chance of reaching the target. 
+
+We can also see from the graph and table that very few people kept a goal of greater than $25,000.
 
 - What are some limitations of this dataset?
 
+I think there should have been more data for projects which had a goal greater than $25,000. Due to this, we can not see a proper trend for goal amounts higher than $25,000. A line graph does not properly give us the whole image for the dataset in "Outcomes based on Goals" sheet. 
+
+Secondly, in the 'Theatres Outcomes by Launch Date' sheet, we do not have a subcategory field. It would be helpful to filter the data according to sub categories so that we could see Launch dates for only plays and not the other two sub categories of Theatre category. 
+
 - What are some other possible tables and/or graphs that we could create?
 
+For the "Outcomes based on Goals" sheet, it would be a good idea to create a Box and Whisker plot. This would give the different statistical values such as Mean, Mode and Median and would help Louise make an informed decision. 
+
+In the 'Theatres Outcomes by Launch Date' sheet, we could also add a subcategory filter so that we can view data for only the plays. 
 
